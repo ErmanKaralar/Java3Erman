@@ -13,6 +13,7 @@ public class Merhaba {
         for (int i = 0; i < 5; i++) {
             System.out.println("Hele şükür oldu");
         }
-
+        //Bundan sonrası benim kodlarım bakalım Git karıştıracak mı,
+        //Branch gerçekten 2 ayrı proje gibi mi çalışıyor acaba
     }
 }
